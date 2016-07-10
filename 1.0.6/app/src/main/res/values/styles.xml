@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- activity_main -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#4caf50</item>
+        <item name="colorPrimaryDark">#388e3c</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <!-- activity_second -->
+    <style name="AppTheme2" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#2196f3</item>
+        <item name="colorPrimaryDark">#1976d2</item>
+        <item name="colorAccent">#2196f3</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/background_splash</item>
+    </style>
+
+</resources>

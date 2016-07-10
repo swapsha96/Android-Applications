@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">//TODO</string>
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-3210995306239606/1582722579</string>
+</resources>
